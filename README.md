@@ -49,8 +49,7 @@ Server: Apache (XAMPP/WAMP/LAMP)
 
 Clone this repository:
 
-git clone https://github.com/Deekshi08/Community-Composting.git
-
+https://github.com/Deekshi082/Community-Composting.git
 
 Place the project folder inside your server directory:
 
