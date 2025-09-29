@@ -26,6 +26,15 @@ Encourage community participation in sustainable waste management.
 
 🌍 Community Impact – Supports waste-to-resource conversion and promotes sustainability.
 
+🛡️ Admin Login – Admin can manage composters and contributions.
+
+🔐 Admin Login Credentials
+
+To access the admin panel, use the following credentials:
+
+Username: admin  
+Password: admin123
+
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript
@@ -40,7 +49,7 @@ Server: Apache (XAMPP/WAMP/LAMP)
 
 Clone this repository:
 
-git clone https://github.com/your-username/community-composting.git
+git clone https://github.com/Deekshi08/Community-Composting.git
 
 
 Place the project folder inside your server directory:
@@ -57,18 +66,9 @@ Create a new database (e.g., compost_db)
 
 Import the .sql file provided in the project
 
-Update db.php with your database credentials:
-
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "compost_db";
-
-
 Run the project in your browser:
 
 http://localhost/community-composting/
-
 
 🚀 Future Enhancements
 
