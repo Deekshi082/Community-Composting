@@ -1,5 +1,6 @@
 Community Composting
 📖 Overview
+
 Community Composting is a digital platform designed to promote sustainable waste management by connecting households, institutions, and organizations with composters. Many individuals struggle to dispose of organic waste responsibly, while composters need a structured way to collect and process it.
 This project bridges the gap by allowing users to contribute their surplus organic waste (such as food scraps, garden waste, and biodegradable materials) and enabling composters or NGOs to manage, collect, and convert it into compost effectively.
 
@@ -67,7 +68,6 @@ $database = "compost_db";
 Run the project in your browser:
 
 http://localhost/community-composting/
-
 
 
 🚀 Future Enhancements
