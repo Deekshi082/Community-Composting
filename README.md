@@ -61,7 +61,7 @@ Import the database:
 
 Open phpMyAdmin
 
-Create a new database (e.g., compost_db)
+Create a new database
 
 Import the .sql file provided in the project
 
